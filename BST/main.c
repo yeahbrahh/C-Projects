@@ -105,7 +105,7 @@ int main(int argc, char *argv[])
     printf("Here is an insert-> \n");
     print_tree(root);
 
-    printf()
+    printf();
 
     free(array);
     free(root);
